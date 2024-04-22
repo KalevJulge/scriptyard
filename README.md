@@ -1,2 +1,2 @@
 # scriptyard
-Various geospatial data processing scripts
+Various geospatial data processing scripts.
